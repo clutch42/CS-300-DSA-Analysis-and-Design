@@ -1,0 +1,55 @@
+cs101,Introduction to Computer Science
+CS102,Data Structures and Algorithms,CS101
+CS103,Discrete Mathematics,CS101,CS102
+CS104,Object-Oriented Programming,CS101,CS102,CS103
+CS105,Database Systems,CS102
+CS106,Operating Systems,CS104
+CS107,Artificial Intelligence,CS102
+CS108,Machine Learning,CS107
+CS109,Natural Language Processing,CS108
+CS110,Computer Graphics,CS104
+CS111,Cybersecurity,CS106
+CS112,Cryptography,CS103
+CS113,Software Engineering,CS104
+CS114,Human-Computer Interaction,CS104
+CS115,Bioinformatics,CS108
+CS116,Distributed Systems,CS106
+CS117,Big Data Analytics,CS105
+CS118,Social Computing,CS114
+CS119,Gaming and Simulation,CS110
+MA101,Basic Calculus
+MA102,Linear Algebra
+MA103,Differential Equations
+MA104,Numerical Analysis
+MA105,Probability and Statistics
+MA106,Abstract Algebra
+MA107,Real Analysis
+MA108,Complex Analysis
+MA109,Fuzzy Logic and Applications
+MA110,Cryptography and Number Theory
+PH101,Mechanics and Thermodynamics
+PH102,Waves and Optics
+PH103,Electricity and Magnetism
+PH104,Modern Physics
+PH105,Astrophysics and Cosmology
+PH106,Nuclear and Particle Physics
+PH107,Solid State Physics
+PH108,Biophysics and Medical Physics
+PH109,Nanotechnology and Quantum Computing
+PH110,Renewable Energy and Climate Change
+CH101,Fundamentals of Chemistry
+CH102,Organic Chemistry I
+CH103,Biochemistry I
+CH104,Analytical Chemistry I
+CH105,Molecular Biology I
+CH106,Synthetic Chemistry I
+CH107,Metabolism and Molecular Genetics I
+CH108,Microbiology I
+CH109,Biotechnology I
+CH110,Nanotechnology I
+CH111,Biomedical Engineering I
+CH112,Biomaterials I
+CH113,Bioinformatics I
+CH114,Biosensors I
+CH115,Biophysics I
+CH116,Bioethics I
