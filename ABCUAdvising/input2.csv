@@ -1,0 +1,20 @@
+CS101,Introduction to Computer Science
+CS102,Programming Fundamentals,CS101
+CS103,Data Structures and Algorithms,CS102
+CS104,Discrete Mathematics for Computer Science,CS102
+CS105,Computer Organization and Architecture,CS102
+CS201,Object-Oriented Programming,CS103
+CS202,Operating Systems,CS105
+CS203,Databases,CS103
+CS204,Software Engineering,CS201
+CS205,Artificial Intelligence,CS103
+CS206,Machine Learning,CS205
+CS207,Natural Language Processing,CS206
+CS208,Computer Graphics,CS201
+CS209,Computer Networks,CS202
+CS301,Theory of Computation,CS104
+CS302,Cryptography and Network Security,CS301
+CS303,Big Data Analytics,CS203
+CS304,Human-Computer Interaction,CS204
+CS305,Bioinformatics,CS206
+CS306,Distributed Systems,CS202

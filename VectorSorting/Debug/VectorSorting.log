@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\clutc\source\VectorSorting\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\source\VectorSorting\VectorSorting.cpp(288,31): warning C4018: '<': signed/unsigned mismatch
+  VectorSorting.vcxproj -> C:\Users\clutc\source\VectorSorting\Debug\VectorSorting.exe

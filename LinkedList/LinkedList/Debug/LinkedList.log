@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+C:\Users\clutc\source\LinkedList\LinkedList\LinkedList.cpp(303,27): warning C4018: '<': signed/unsigned mismatch
+  LinkedList.vcxproj -> C:\Users\clutc\source\LinkedList\LinkedList\Debug\LinkedList.exe
